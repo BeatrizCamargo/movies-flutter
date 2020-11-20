@@ -1,6 +1,6 @@
 # Filmes (Movies)
 
-Aplicativo de lista de filmes utilizando a API do [TMDb](https://www.themoviedb.org/?language=pt-BR) criado para disciplina de Programação Mobile, criado por Kleber de Oliveira Andrade
+Aplicativo de lista de filmes utilizando a API do [TMDb](https://www.themoviedb.org/?language=pt-BR) criado para disciplina de Programação Mobile, criado por Kleber de Oliveira Andrade. Desafio resolvido por Beatriz Santos Camargo.
 
 Tutorial de criação deste app: [clique aqui](https://kleberandrade.medium.com/criando-um-aplicativo-em-flutter-para-consumir-uma-api-de-filmes-tmdb-2b5a9982bfcd)
 
@@ -20,11 +20,11 @@ Tutorial de criação deste app: [clique aqui](https://kleberandrade.medium.com/
 
 ## Desafio para aula
 
-*   [ ] Adicionar um [ícone](https://pub.dev/packages/flutter_launcher_icons) e uma [tela de splash](https://pub.dev/packages/custom_splash) para o aplicativo;
-*   [ ] Na MovieDetailPage adicionar pelo menos 2 novas informaçoes;
-*   [ ] Criar um [IconButton na AppBar](https://medium.com/flutterpub/playing-with-appbar-in-flutter-3a8abd9b982a) que altere o crossAxisCount do GridView entre 2 e 3. Nao se esqueçam do setState;
-*   [ ] Trocar a lógica do ScrollController por [InfiniteScrollPagination](https://pub.dev/packages/infinite_scroll_pagination);
-*   [ ] Utilizar [FancyShimmerImage](https://pub.dev/packages/fancy_shimmer_image) para os posters (MoviePage) e banners (MovieDetailPage);
+*   [x] Adicionar um [ícone](https://pub.dev/packages/flutter_launcher_icons) e uma [tela de splash](https://pub.dev/packages/custom_splash) para o aplicativo;
+*   [x] Na MovieDetailPage adicionar pelo menos 2 novas informaçoes;
+*   [x] Criar um [IconButton na AppBar](https://medium.com/flutterpub/playing-with-appbar-in-flutter-3a8abd9b982a) que altere o crossAxisCount do GridView entre 2 e 3. Nao se esqueçam do setState;
+*   [x] Trocar a lógica do ScrollController por [InfiniteScrollPagination](https://pub.dev/packages/infinite_scroll_pagination);
+*   [x] Utilizar [FancyShimmerImage](https://pub.dev/packages/fancy_shimmer_image) para os posters (MoviePage) e banners (MovieDetailPage);
 
 ## Licença
 
